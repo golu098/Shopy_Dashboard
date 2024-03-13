@@ -1,5 +1,4 @@
 **Shopy Dashboard README**
-Deployment Link :- 
 ---
 
 ## Introduction
